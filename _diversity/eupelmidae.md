@@ -6,11 +6,10 @@ tags: parasitoid chalcid Eupelmidae Anastatus Metapelma
 authors: Alejandra Rocha
 family: Eupelmidae
 distribution: worldwide 
-top_image: https://sfg.taxonworks.org/s/ewbnre
+top_image: https://sfg.taxonworks.org/s/cz4kxd
 card_image: https://sfg.taxonworks.org/s/ewbnre
 layout: taxon_page
 ---
-
 
 ##### _Anastatus_ sp. ovipositing into a stink bug egg. Photo by Alexander Wild
 
@@ -34,8 +33,8 @@ Members of the subfamily Eupelminae have a unique jumping mechanism which is pow
 
 Species of Eupelmidae have been used as biological control agents of agricultural and forest pests. For example, _Anastatus_  _disparis_ is an egg parasitoid  used to control the  gypsy moth (_Lymantria_ _dispar_), one of the most destructive insects in the eastern United States. It can defoliate over one million acres of forest a year causing millions in damage. 
 
-<img src="https://sfg.taxonworks.org/s/zh1gcw" alt="_Lymantria_ _dispar_: (A) female (top) and male (bottom), (B) caterpillars feeding on leaves, (C) defoliated forest" width="100%"/>
-##### _Lymantria_ _dispar_: (A) female (top) and male (bottom), (B) caterpillars feeding on leaves, (C) defoliated forest 
+<img src="https://sfg.taxonworks.org/s/eyr09n" alt="_Lymantria_ _dispar_: (G) female (top) and male (bottom), (H) caterpillars feeding on leaves, (I) defoliated forest" width="100%"/>
+##### _Lymantria_ _dispar_: (G) female (top) and male (bottom), (H) Larvae eating all the leaves off trees, (I) Defoliated forest 
 
 ## Links
 
@@ -43,3 +42,16 @@ Species of Eupelmidae have been used as biological control agents of agricultura
 * [_Eupelmus_ sp. ovipositing into wood boring host](https://www.youtube.com/watch?v=kiCZNAXLKoc)
 * [Eupelmidae under a microscope](https://www.youtube.com/watch?v=B8shVm30kKo)
 * [_Anastatus_ sp. ovipositing into true bug eggs](https://www.youtube.com/watch?v=Zx9Doypjv7M&feature=youtu.be)
+
+## Photo Credit
+
+* (A) CBG Photography Group
+* (B) Natural History Museum: Hymenoptera Section
+* (C) Natural History Museum: Hymenoptera Section
+* (D) WSDA Ent Lab
+* (E) CNC/BIO Photography Group
+* (F) Spencer Walker
+* (G) USDA, APHIS, Plant Protection and Quarantine Archives
+* (H) Haruta Ovidiu, University of Oradea, Bugwood.org 
+* (I) Jeffrey A. Mai, U.S. Forest Service
+
