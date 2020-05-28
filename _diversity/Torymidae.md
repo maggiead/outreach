@@ -13,39 +13,21 @@ layout: taxon_page
 ---
 
 ## Introduction
-![Torymidae sp.](https://sfg.taxonworks.org/s/sewqhp)
-##### _Torymidae_ sp. male and female mating photo credit: Petr Jansta
 
-Torymidae are a diverse family of chalcid wasps that can be easily recognized by the long ovipositor in females. This long ovipositor is used to deposit eggs into hosts internally. Torymidae specialize parasitizing in concealed habitats include attacking gall-makers and the eggs of praying mantises. They range in size from roughly 1mm to 7mm in length. Their diversity holds one subfamily (Toryminae) with and estimated 55 genera and 808 species. Prior to 2017, the family was grouped into two subfamilies, M & T. Molecular systematics suggested instead that the two subfamilies were unrelated and Megastigminae are now recognized as their own family.
-
-## A New Classification
-
-Prior to 2017, Torymidae was thought to contain two subfamilies Megastigminae and Toryminae. However, using molecular systematics, it was shown Megastigminae are unrelated and both are now elevated to family status (Jansta et al. 2017) DOI:10.1111/cla.12228 
+Torymidae are a diverse family of chalcid wasps that can be easily recognized by their metallic body color, large hind coxae, and long ovipositor in females. This long ovipositor is used to deposit eggs onto or into their hosts. Torymidae specialize in parasitizing in hosts concealed habitats including attacking both gall-making insects and the eggs of praying mantises. They range in size from roughly 1mm to 7mm in length. Prior to 2017, the family was grouped into two subfamilies, Megastigminae and Toryminae. Molecular systematics suggested instead that the two subfamilies were unrelated and Megastigminae are now recognized as their own family (Jansta et al. 2017 DOI:10.1111/cla.12228). Torymidae now holds ___
 
 ## Biology
 
-Belonging to the order Diptera, Torymidae are known as ectoparasitoids that inhabit plant galls. Torymidae tend to exhibit phytophagous behavior, also known as feeding on plants. Females choose a plant to host and lay their egss where larvae with segmented legs can emerge and feed on plants to become adults. Research is further being done to match each species of the Toryminae family to its specific host.
-Torymidae are biologically extremely diverse and comprise fundamentally different life styles, including: ectoparasitoids of different gall-inducers on various plants (trees or herbs), parasitoids of praying mantid eggs in their egg cases (Mantodea), and ectoparasitoids of bee larvae living in twigs and stems or of larvae of bark beetles. They are also proved to endoparasitize eggs of true bugs, butterfly pupa, and even other parasites. Some of these life styles/host types are restricted to a single tribe or closely related tribes, some evolved convergently and are scattered throughout the subfamily (Janšta et al. 2018).
+Torymidae are biologically extremely diverse and comprise fundamentally different life styles including: endoparasitoids of different gall-inducers on various plants (trees or herbs), parasitoids of praying mantid eggs in their egg cases (Mantodea), and ectoparasitoids of bee larvae living in twigs and stems or of larvae of bark beetles. They have also been found as endoparasitoids of the eggs of true bugs, butterfly pupa, and other __ parasites. Some of these life styles/host types are restricted to a single tribe or closely related tribes whereas some have evolved convergently and are scattered throughout the family.
 
  
 ## Morphology
 
-The following descrives morphology to identify a parasitic wasp belonging to the family Torymidae. Torymidae tarsi have 4-5 tarsomeres. Both sexes tend to large hind coxa. Torymidae have bodies with metallic luster and are  much longer than 1mm. Females in Torymidae exhibit the most noticible and easily identifiable body part which is their long ovipositor used for laying eggs.
+The following describes morphology that is useful in identifying a parasitic wasp belonging to the family Torymidae. Their tarsi have 4-5 tarsomeres. Both sexes tend to large hind coxa. Torymidae have bodies with metallic luster and are  much longer than 1mm. Females in Torymidae exhibit the most noticeable and easily identifiable body part which is their long ovipositor used for laying eggs.
 
+## Gallery
 
-## Vocabulary
-
-Ovipositor- a tubular organ through which a female insect deposits eggs.
-Parasitoid- an insect whose larvae develops on and exploits the host. 
-Gall- abnormal growths that can arise in all parts of a plant 
-Taxonomy- classifying organisms through systematics 
-Systematics- study of the diversification of living forms, both past and present, and the relationships among living things through time
-Tarsi- final segment in the leg, essentially the feet of insects
-Flagellum- the segments that are whip like that make up the ends of the antennae 
-
-## Gallery 
-
-https://sfg.taxonworks.org/s/kmylzn
+*[Torymus sp.](https://sfg.taxonworks.org/s/kmylzn)
 https://sfg.taxonworks.org/s/1hs2kf
 https://sfg.taxonworks.org/s/sus0y0
 
