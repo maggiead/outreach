@@ -23,13 +23,13 @@ The Chalcididae are a moderately sized family within the Chalcidoidea that first
 The vast majority of wasps are parasitoids. Many parasitic wasps in inert stages of their host, such as the egg or pupa. In some cases, the parasitoid will parasitize its prey by injecting it with venom from its ovipositor. From there the eggs either enter the host’s body or remain on the surface until the parasitoid larvae mature. There are eight species of parasitic wasps that attack the gypsy moth. Both _Ooencyrtus kuvanae_ and _Anastatus disparis_ attack gypsy moth eggs. _Apanteles melanoscelus_ and _Phobocampe disparis_ parasitize the early larva stages while _Brachymeria intermedia_ and _Monodontomerus aureus_ parasitize the gypsy moth pupae.
 
 ## Morphology
-![Tegula](https://sfg.taxonworks.org/s/ujlc3p)
+![Tegula](https://sfg.taxonworks.org/s/503dwz)
 ##### _Brachymeria_ mesosoma lateral
 
 There are four main diagnostic features of the Chalcididae that are helpful when attempting to identify a chalcidid.The femur on the hind legs of chalcidids are swollen and the ventral margin is lined with one or more teeth. Moreover, the prepectu, a sclerite of the thorax, is narrow or even indistinguishable. The tegula is equally long as it is broad and the body is anywhere from 2.5 to 9.0mm in length. 
 
 ## Economic Importance
-![Gypsy Moth](https://sfg.taxonworks.org/s/h04il5)
+![Gypsy Moth](https://sfg.taxonworks.org/s/3lw8pz)
 #### Gypsy Moth
 
 Many chalcidids are of interest as parasitoids of insect pests. Brachymeria intermedia, for example, is a parasitoid of _Lymantria dispar_, which had become a pest of a variety of trees in North America. Although it showed promise as a possible mechanism for biocontrol, _Brachymeria intermedia_ has proved to be of little use for biological control purposes. This is because the Brachymeria ended up attacking too many native species. Moreover, the moth parasitoid _Copidosoma floridanum_ is another species being used for biocontrol, whose genome is being sequenced by the Human Genome Sequencing Center as part of the i5K project, which aims to sequence the genomes of 5,000 arthropods.
