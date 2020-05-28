@@ -6,12 +6,10 @@ tags: parasitoid chalcid Eupelmidae Anastatus Metapelma
 authors: Alejandra Rocha
 family: Eupelmidae
 distribution: worldwide 
-top_image: https://sfg.taxonworks.org/s/nxgvzy
+top_image: https://sfg.taxonworks.org/s/0e5v1d
 card_image: https://sfg.taxonworks.org/s/ewbnre
 layout: taxon_page
 ---
-
-##### _Anastatus_ sp. ovipositing into a stink bug egg. Photo by Alexander Wild
 
 ## Introduction
 
@@ -30,7 +28,7 @@ Most are internal or external parasites of the immature stages of moths, butterf
 Members of the subfamily Eupelminae have a unique jumping mechanism which is powered by the contraction of the large acropleural muscles. These muscles stretch energy storing blocks made of resilin. When triggered, the energy is released distorting the thorax, forcing the head and abdomen to bend over it causing the midlegs to snap backward propelling it into the air. These modifications will often cause Eupelminae to die in a bent shape with the head and abdomen held upwards (figure A and E above).
 
 <img src="https://sfg.taxonworks.org/s/wwhh4x" alt="jumping mechanism" width="100%"/>
-#### Jumping mechanism
+##### Jumping mechanism
 
 ## Economic Importance
 
