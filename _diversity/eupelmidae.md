@@ -29,6 +29,8 @@ Most are internal or external parasites of the immature stages of moths, butterf
 
 Members of the subfamily Eupelminae have a unique jumping mechanism which is powered by the contraction of the large acropleural muscles. These muscles stretch energy storing blocks made of resilin. When triggered, the energy is released distorting the thorax, forcing the head and abdomen to bend over it causing the midlegs to snap backward propelling it into the air. These modifications will often cause Eupelminae to die in a bent shape with the head and abdomen held upwards (figure A and E above).   
 
+<img src="https://sfg.taxonworks.org/s/q7zywm" alt="_jumping morphology" width="100%"/>
+
 ## Economic Importance
 
 Species of Eupelmidae have been used as biological control agents of agricultural and forest pests. For example, _Anastatus_  _disparis_ is an egg parasitoid  used to control the  gypsy moth (_Lymantria_ _dispar_), one of the most destructive insects in the eastern United States. It can defoliate over one million acres of forest a year causing millions in damage. 
