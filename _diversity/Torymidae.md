@@ -28,13 +28,11 @@ The following describes morphology that is useful in identifying a parasitic was
 ## Gallery
 
 *[Torymus sp.](https://sfg.taxonworks.org/s/kmylzn)
-https://sfg.taxonworks.org/s/1hs2kf
-https://sfg.taxonworks.org/s/sus0y0
+*[Torymus sp.](https://sfg.taxonworks.org/s/1hs2kf)
+*[Torymus sp.](https://sfg.taxonworks.org/s/sus0y0)
 
 ## Links
 
-Parasitic Torymus wasp feeding on Honey 
-(https://www.youtube.com/watch?v=bUEbzdKMcQM)
+*[Parasitic Torymus wasp feeding on Honey](https://www.youtube.com/watch?v=bUEbzdKMcQM)
 
-Described in French, a female Torymidae wasp shown ovipositing eggs
-(https://www.youtube.com/watch?v=IGxy4OCRVHs)
+*[Described in French, a female Torymidae wasp shown ovipositing eggs](https://www.youtube.com/watch?v=IGxy4OCRVHs)
