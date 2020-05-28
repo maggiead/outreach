@@ -27,10 +27,9 @@ The following describes morphology that is useful in identifying a parasitic was
 
 ## Gallery
 
-<img src="https://sfg.taxonworks.org/s/kmylzn" alt="_jumping morphology" width="100%"/>
-*[Torymus sp.] (https://sfg.taxonworks.org/s/kmylzn)
-*[Torymus sp.] (https://sfg.taxonworks.org/s/1hs2kf)
-*[Torymus sp.] (https://sfg.taxonworks.org/s/sus0y0)
+<img src="https://sfg.taxonworks.org/s/kmylzn" alt="_torymidae_" width="100%"/>
+<img src="https://sfg.taxonworks.org/s/1hs2kf" alt="_torymidae_" width="100%"/>
+<img src="https://sfg.taxonworks.org/s/sus0y0" alt="_torymidae_" width="100%"/>
 
 ## Links
 
