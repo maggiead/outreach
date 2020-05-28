@@ -1,7 +1,7 @@
 ---
 title: Family- Eupelmidae
 date: 2020-05-14
-modified: 2020-05-20
+modified: 2020-05-28
 tags: parasitoid chalcid Eupelmidae Anastatus Metapelma
 authors: Alejandra Rocha
 family: Eupelmidae
@@ -22,10 +22,12 @@ Eupelmidae is a diverse family containing more than 900 species that can be foun
 
 Most are internal or external parasites of the immature stages of moths, butterflies, true bugs, beetles, lacewings, grasshoppers, cockroaches, gall midges, and other wasps. Some are egg parasites on eggs of spiders with the egg case; as they attack multiple eggs, they can be thought of as predators rather than parasites (figure E below). Other species are hyperparasites, parasites that attack a host that is also a parasite.
 
-<img src="https://sfg.taxonworks.org/s/ju6ndj" alt="(A)	_Anastatus_, (B) _Eupelmus_   _vesicularis_ female, (C) _Eupelmus_  _vesicularis_ male, (D) _Brasema_, (E) _Arachnophaga_, (F) _Metapelma_ _spectabile_" width="100%"/>
+<img src="https://sfg.taxonworks.org/s/wmp1bc" alt="(A)	_Anastatus_, (B) _Eupelmus_   _vesicularis_ female, (C) _Eupelmus_  _vesicularis_ male, (D) _Brasema_, (E) _Arachnophaga_, (F) _Metapelma_ _spectabile_" width="100%"/>
 ##### (A)	_Anastatus_, (B) _Eupelmus_   _vesicularis_ female, (C) _Eupelmus_  _vesicularis_ male, (D) _Brasema_, (E) _Arachnophaga_, (F) _Metapelma_ _spectabile_
 
 ## Morphology
+
+<img src="https://sfg.taxonworks.org/s/ju6ndj" alt="jumping mechanism" width="100%"/>
 
 Members of the subfamily Eupelminae have a unique jumping mechanism which is powered by the contraction of the large acropleural muscles. These muscles stretch energy storing blocks made of resilin. When triggered, the energy is released distorting the thorax, forcing the head and abdomen to bend over it causing the midlegs to snap backward propelling it into the air. These modifications will often cause Eupelminae to die in a bent shape with the head and abdomen held upwards (figure A and E above).   
 
