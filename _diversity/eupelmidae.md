@@ -29,6 +29,7 @@ Members of the subfamily Eupelminae have a unique jumping mechanism which is pow
 
 <img src="https://sfg.taxonworks.org/s/yswhxi" width="100%"/>
 
+
 ## Economic Importance
 
 Species of Eupelmidae have been used as biological control agents of agricultural and forest pests. For example, _Anastatus_  _disparis_ is an egg parasitoid  used to control the  gypsy moth (_Lymantria_ _dispar_), one of the most destructive insects in the eastern United States. It can defoliate over one million acres of forest a year causing millions in damage. 
