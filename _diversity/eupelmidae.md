@@ -6,7 +6,7 @@ tags: parasitoid chalcid Eupelmidae Anastatus Metapelma
 authors: Alejandra Rocha
 family: Eupelmidae
 distribution: worldwide 
-top_image: https://sfg.taxonworks.org/s/0e5v1d
+top_image: https://sfg.taxonworks.org/s/qel0ma
 card_image: https://sfg.taxonworks.org/s/ewbnre
 layout: taxon_page
 ---
