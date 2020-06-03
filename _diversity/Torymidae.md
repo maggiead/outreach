@@ -6,7 +6,7 @@ tags: ant parasitoid chalcid Torymidae
 authors: Magali Lewis
 family: Torymidae
 distribution: worldwide 
-top_image: https://sfg.taxonworks.org/s/skd6ly
+top_image: https://sfg.taxonworks.org/s/pr3xvn
 card_image: https://sfg.taxonworks.org/s/sewqhp
 footer_image: 
 layout: taxon_page
