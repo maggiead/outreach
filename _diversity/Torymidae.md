@@ -14,11 +14,11 @@ layout: taxon_page
 
 ## Introduction
 
-Torymidae are a diverse family of chalcid wasps that can be easily recognized by their metallic body color, large hind coxae, and long ovipositor in females. This long ovipositor is used to deposit eggs onto or into their hosts. Torymidae specialize in parasitizing in hosts concealed habitats including attacking both gall-making insects and the eggs of praying mantises. They range in size from roughly 1mm to 7mm in length. Prior to 2017, the family was grouped into two subfamilies, Megastigminae and Toryminae. Molecular systematics suggested instead that the two subfamilies were unrelated and Megastigminae are now recognized as their own family (Janšta et al. 2017 DOI:10.1111/cla.12228). Torymidae now holds ___
+Torymidae are a diverse family of chalcid wasps that can be easily recognized by their metallic body color, large hind coxae, and long ovipositor in females. This long ovipositor is used to deposit eggs onto or into their hosts. Torymidae specialize in parasitizing hosts in concealed habitats including gall-making insects and the eggs of praying mantises. They range in size from roughly 1mm to 7mm in length. Prior to 2017, the family was grouped into two subfamilies, Megastigminae and Toryminae. Molecular systematics suggested instead that the two subfamilies were unrelated and Megastigminae are now recognized as their own family (Janšta et al. 2017 DOI:10.1111/cla.12228). Torymidae now holds (49 genera and 890 extant species).
 
 ## Biology
 
-Torymidae are biologically extremely diverse and comprise fundamentally different life styles including: endoparasitoids of different gall-inducers on various plants (trees or herbs), parasitoids of praying mantid eggs in their egg cases (Mantodea), and ectoparasitoids of bee larvae living in twigs and stems or of larvae of bark beetles. They have also been found as endoparasitoids of the eggs of true bugs, butterfly pupa, and other __ parasites. Some of these life styles/host types are restricted to a single tribe or closely related tribes whereas some have evolved convergently and are scattered throughout the family.
+Torymidae are biologically extremely diverse and comprise fundamentally different life styles including: endoparasitoids of different gall-inducers on various plants (trees or herbs), parasitoids of praying mantid eggs in their egg cases (Mantodea), and ectoparasitoids of bee larvae living in twigs and stems or of larvae of bark beetles. They have also been found as endoparasitoids of the eggs of true bugs, butterfly pupa, and other (Strepsiptera parasites). Some of these life styles/host types are restricted to a single tribe or closely related tribes whereas some have evolved convergently and are scattered throughout the family.
 
 ## Morphology
 
@@ -27,13 +27,13 @@ The following describes morphology that is useful in identifying a parasitic was
 ## Gallery
 
 <img src="https://sfg.taxonworks.org/s/1hs2kf" alt="_torymidae_" width="100%"/>
-##### caption and photo credit
+##### _Torymus_ rubi by Petr Jansta
 
 <img src="https://sfg.taxonworks.org/s/sus0y0" alt="_torymidae_" width="100%"/>
-##### caption and photo credit
+##### _Torymus_ bdedguaris by Petr Jansta
 
 <img src="https://sfg.taxonworks.org/s/kmylzn" alt="_torymidae_" width="100%"/>
-##### caption and photo credit
+##### _Torymus_ sp. by Chris Grinter
 
 ## Links
 
