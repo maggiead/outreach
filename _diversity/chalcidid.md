@@ -6,8 +6,8 @@ tags: wasp Conura parasitoid chalcid chalcidid Chalcididae Brachymeria
 authors: Evie Alberico
 family: Chalcididae
 distribution: worldwide 
-top_image: https://sfg.taxonworks.org/s/lrlm3q
-card_image: https://sfg.taxonworks.org/s/lrlm3q
+top_image: https://sfg.taxonworks.org/s/6uyfoc
+card_image: https://sfg.taxonworks.org/s/6uyfoc
 footer_image: https://sfg.taxonworks.org/s/iq7anw
 layout: taxon_page
 ---
