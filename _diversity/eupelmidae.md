@@ -11,9 +11,11 @@ card_image: https://sfg.taxonworks.org/s/ewbnre
 layout: taxon_page
 ---
 
+
 ## Introduction
 
 Eupelmidae is a diverse family containing more than 900 species that can be found around the world, with 119 of those species occurring in Canada and the United States. Members of this group have diverse life histories and currently are divided into 3 subfamilies: Calostinae, Eupelminae, and Neanastatinae. While most Eupelmidae are tiny, the largest members of the genus _Metapelma_ can be up to 6 mm in body length (figure F below). Species vary in color from dull brown to brightly colored and even metallic.
+
 
 
 ## Biology
@@ -23,11 +25,15 @@ Most are internal or external parasites of the immature stages of moths, butterf
 <img src="https://sfg.taxonworks.org/s/a256qn" alt="(A)	_Anastatus_, (B) _Eupelmus_   _vesicularis_ female, (C) _Eupelmus_  _vesicularis_ male, (D) _Brasema_, (E) _Arachnophaga_, (F) _Metapelma_ _spectabile_" width="100%"/>
 ##### (A)	_Anastatus_, (B) _Eupelmus_   _vesicularis_ female, (C) _Eupelmus_  _vesicularis_ male, (D) _Brasema_, (E) _Arachnophaga_, (F) _Metapelma_ _spectabile_
 
+
+
 ## Morphology
 
-Members of the subfamily Eupelminae have a unique jumping mechanism which is powered by the contraction of the large acropleural muscles. These muscles stretch energy storing blocks made of resilin. When triggered, the energy is released distorting the thorax, forcing the head and abdomen to bend over it causing the midlegs to snap backward propelling it into the air. These modifications will often cause Eupelminae to die in a bent shape with the head and abdomen held upwards (figure A and E above).
+Members of the subfamily Eupelminae have a unique jumping mechanism which is powered by the contraction of the large acropleural muscles. These muscles stretch energy storing blocks made of [resilin](https://en.wikipedia.org/wiki/Resilin). When triggered, the energy is released distorting the thorax, forcing the head and abdomen to bend over it causing the midlegs to snap backward propelling it into the air. These modifications will often cause Eupelminae to die in a bent shape with the head and abdomen held upwards (figure A and E above). Eupelminae are [sexually dimorphic](https://en.wikipedia.org/wiki/Sexual_dimorphism)
+ making it difficult for males to be identified and are often mistaken for members of the family Pteromalidae (figure B and C above).
 
 <img src="https://sfg.taxonworks.org/s/zzs7jl" width="100%"/>
+
 
 
 ## Economic Importance
@@ -35,14 +41,17 @@ Members of the subfamily Eupelminae have a unique jumping mechanism which is pow
 Species of Eupelmidae have been used as biological control agents of agricultural and forest pests. For example, _Anastatus_  _disparis_ is an egg parasitoid  used to control the  gypsy moth (_Lymantria_ _dispar_), one of the most destructive insects in the eastern United States. It can defoliate over one million acres of forest a year causing millions in damage. 
 
 <img src="https://sfg.taxonworks.org/s/3lw8pz" alt="_Lymantria_ _dispar_: (G) female (top) and male (bottom), (H) caterpillars feeding on leaves, (I) defoliated forest" width="100%"/>
-##### _Lymantria_ _dispar_: (G) female (top) and male (bottom), (H) Larvae eating all the leaves off trees, (I) Defoliated forest 
+##### _Lymantria_ _dispar_: (G) female (top) and male (bottom), (H) Larvae feeding on the leaves of trees, (I) Defoliated forest 
+
+
+[Gypsy Moth Fact Sheet]( https://ag.umass.edu/sites/ag.umass.edu/files/pdf%2Cdoc%2Cppt/final_gypsy_moth_fact_sheet_1_column.pdf)
 
 ## Links
 
 * [_Anastatus_ sp. ovipositing into host eggs]( https://www.youtube.com/watch?v=4zzYJrbpWaU)
 * [_Eupelmus_ sp. ovipositing into wood boring host](https://www.youtube.com/watch?v=kiCZNAXLKoc)
-* [Eupelmidae under a microscope](https://www.youtube.com/watch?v=B8shVm30kKo)
 * [_Anastatus_ sp. ovipositing into true bug eggs](https://www.youtube.com/watch?v=Zx9Doypjv7M&feature=youtu.be)
+* [Eupelmidae under a microscope](https://www.youtube.com/watch?v=B8shVm30kKo)
 
 ## Photo Credit
 
