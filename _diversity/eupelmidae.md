@@ -14,13 +14,14 @@ layout: taxon_page
 
 ## Introduction
 
-Eupelmidae is a diverse family containing more than 900 species that can be found around the world, with 119 of those species occurring in Canada and the United States. Members of this group have diverse life histories and currently are divided into 3 subfamilies: Calostinae, Eupelminae, and Neanastatinae. While most Eupelmidae are tiny, the largest members of the genus _Metapelma_ can be up to 6 mm in body length (figure F below). Species vary in color from dull brown to brightly colored and even metallic.
+Eupelmidae is a diverse family containing more than 900 species that can be found around the world, with 119 of those species occurring in Canada and the United States. Members of this group have diverse life histories and currently are divided into 3 [subfamilies](https://en.wikipedia.org/wiki/Subfamily): Calostinae, Eupelminae, and Neanastatinae. While most Eupelmidae are tiny, the largest members of the genus _Metapelma_ can be up to 6 mm in body length (figure F below). Species vary in color from dull brown to brightly colored and even metallic.
 
 
 
 ## Biology
 
-Most are internal or external parasites of the immature stages of moths, butterflies, true bugs, beetles, lacewings, grasshoppers, cockroaches, gall midges, and other wasps. Some are parasitoids within the egg case of spiders; because they attack multiple eggs within one egg sac, they can be thought of as predators rather than parasitoids which are expected to kill only a single host (figure E below). Other species are hyperparasites, parasites that attack a host that is also a parasite.
+Most are internal or external [parasitoids](https://en.wikipedia.org/wiki/Parasitoid)
+ of the immature stages of moths, butterflies, true bugs, beetles, lacewings, grasshoppers, cockroaches, gall midges, and other wasps. Some are parasitoids within the egg case of spiders; because they attack multiple eggs within one egg sac, they can be thought of as predators rather than parasitoids which are expected to kill only a single host (figure E below). Other species are hyperparasites, parasites that attack a host that is also a parasite.
 
 <img src="https://sfg.taxonworks.org/s/a256qn" alt="(A)	_Anastatus_, (B) _Eupelmus_   _vesicularis_ female, (C) _Eupelmus_  _vesicularis_ male, (D) _Brasema_, (E) _Arachnophaga_, (F) _Metapelma_ _spectabile_" width="100%"/>
 ##### (A)	_Anastatus_, (B) _Eupelmus_   _vesicularis_ female, (C) _Eupelmus_  _vesicularis_ male, (D) _Brasema_, (E) _Arachnophaga_, (F) _Metapelma_ _spectabile_
