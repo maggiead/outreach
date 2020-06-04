@@ -44,7 +44,8 @@ Species of Eupelmidae have been used as biological control agents of agricultura
 ##### _Lymantria_ _dispar_: (G) female (top) and male (bottom), (H) Larvae feeding on the leaves of trees, (I) Defoliated forest 
 
 
-[Gypsy Moth Fact Sheet]( https://ag.umass.edu/sites/ag.umass.edu/files/pdf%2Cdoc%2Cppt/final_gypsy_moth_fact_sheet_1_column.pdf)
+
+Additional information: [Gypsy Moth Fact Sheet]( https://ag.umass.edu/sites/ag.umass.edu/files/pdf%2Cdoc%2Cppt/final_gypsy_moth_fact_sheet_1_column.pdf)
 
 ## Links
 
