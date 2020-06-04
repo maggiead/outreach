@@ -25,7 +25,7 @@ Rotoitidae are a small relictual family (only 2 genera) of parasitic wasps  prop
 
 Adults are associated with Sphagnum moss but otherwise their biology is unknown. It seems likely that they attack the eggs of the moss bug family [Peloridiidae](https://en.wikipedia.org/wiki/Peloridiidae), which have a similar distribution in the southern Hemisphere and are also associated with mosses. Adult _Chiloe_ have a fine plastron of hairs over their body that protects them from getting wet in these damp habitats. In collections in yellow pan traps, they can even survive submersion in soapy water and alcohol as seen in the accompanying video links.
 
-<img src="(https://sfg.taxonworks.org/s/1m5bkf)" width="100%"/>
+<img src="(https://sfg.taxonworks.org/s/vqzusr)" width="100%"/>
 
 ## Economic Importance
 
