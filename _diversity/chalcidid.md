@@ -14,7 +14,7 @@ layout: taxon_page
 
 ## Introduction
 
-<img src="https://sfg.taxonworks.org/s/lu5y9m" alt="Brachymeria"width="100%"/>
+<img src="https://sfg.taxonworks.org/s/lu5y9m" alt="Brachymeria" width="100%"/>
 
 
 ##### _Brachymeria_ sp.
@@ -23,7 +23,7 @@ The Chalcididae are a moderately sized family within the Chalcidoidea that first
 
 ## Biology 
 
-<img src="https://sfg.taxonworks.org/s/l1bn6i" alt="Chalcidid"width="100%"/>
+<img src="https://sfg.taxonworks.org/s/l1bn6i" alt="Chalcidid" width="100%"/>
 
 
 ##### Chalcidid
@@ -32,7 +32,7 @@ The vast majority of wasps are parasitoids. Many parasitic wasps attack their ho
 
 ## Morphology
 
-<img src="https://sfg.taxonworks.org/s/503dwz" alt="Brachymeria_mesosoma_lateral"width="100%"/>
+<img src="https://sfg.taxonworks.org/s/503dwz" alt="Brachymeria_mesosoma_lateral" width="100%"/>
 
 
 ##### _Brachymeria_ mesosoma lateral
@@ -41,7 +41,7 @@ There are four main diagnostic features of the Chalcididae that are helpful when
 
 ## Economic Importance
 
-<img src="https://sfg.taxonworks.org/s/3lw8pz" alt="Gypsy_Moth"width="100%"/>
+<img src="https://sfg.taxonworks.org/s/3lw8pz" alt="Gypsy_Moth" width="100%"/>
 
 
 #### Gypsy Moth
