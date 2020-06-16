@@ -20,6 +20,9 @@ Torymidae are a diverse family of chalcid wasps that can be easily recognized by
 
 Torymidae are biologically extremely diverse and comprise fundamentally different life styles including: endoparasitoids of different gall-inducers on various plants (trees or herbs), parasitoids of praying mantid eggs in their egg cases (Mantodea), and ectoparasitoids of bee larvae living in twigs and stems or of larvae of bark beetles. They have also been found as endoparasitoids of the eggs of true bugs, butterfly pupa, and others (i.e. Strepsiptera parasites). Some of these life styles/host types are restricted to a single tribe or closely related tribes, whereas some have evolved convergently and are scattered throughout the family.
 
+<img src="https://sfg.taxonworks.org/s/x5blws" alt="_torymidae_" width="100%"/>
+#### A variety of cynipid (wasp) and midge (fly) galls that serve as hosts of Torymidae
+
 ## Morphology
 
 The following describes morphology that is useful in identifying a parasitic wasp belonging to the family Torymidae. Their tarsi have 4 or 5 tarsomeres. Both sexes tend to large hind coxa. Torymidae have bodies with metallic luster and are much longer than 1 mm. Females in Torymidae exhibit the most noticeable and easily identifiable body part which is their long ovipositor used for laying eggs.
@@ -35,7 +38,9 @@ The following describes morphology that is useful in identifying a parasitic was
 <img src="https://sfg.taxonworks.org/s/kmylzn" alt="_torymidae_" width="100%"/>
 ##### _Torymus_ sp. by Chris Grinter
 
-## Links
+## Links and Credits
 
 * [Parasitic Torymus wasp feeding on Honey](https://www.youtube.com/watch?v=bUEbzdKMcQM)
 * [Female Torymidae wasp shown ovipositing eggs, in french](https://www.youtube.com/watch?v=IGxy4OCRVHs)
+
+Credit to Gall Photos: "Oak gall IMG_0751" by nojhan is licensed under CC BY-SA 2.0/ "Oak Apple" by Alan Vernon. is licensed under CC BY-NC-SA 2.0/"Andricus fecundator 20100802130439" by NATT-at-NKM is licensed under CC BY 2.0/"gall-midge, Rhabdophaga strobiloides (family Cecidomyiidae)” by Joe Boggs (https://bygl.osu.edu/node/436)
